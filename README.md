@@ -11,8 +11,9 @@ Instagram Clone this have dashborad used by admin and by a user,Instagram,Profil
 
 Every user can post any picture by creating and account and view all picture posted by he/she you follows
 
-## Project instruction 
-to start using this app you can first clone it on github
+## Project instruction
+
+To start using this app you can first clone it on github
 and user visual code for writing codes
 ## Technology used
 * Python3.6
