@@ -6,9 +6,10 @@ this web application works as the same as the instagram website the user able to
 ## By Claudine Kuradusenge
 
 ## Description
-Instagram Clone this have dashborad used by admin and by a user,Instagram,Profile and post images , 29 September 2019
 
-every user can post any picture by creating and account and view all picture posted those you follower 
+Instagram Clone this have dashborad used by admin and by a user,Instagram,Profile and post images
+
+Every user can post any picture by creating and account and view all picture posted by he/she you follows
 
 ## Project instruction 
 to start using this app you can first clone it on github
