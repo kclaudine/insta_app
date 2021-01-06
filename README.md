@@ -15,6 +15,7 @@ Every user can post any picture by creating and account and view all picture pos
 
 To start using this app you can first clone it on github
 and user visual code for writing codes
+
 ## Technology used
 
 * Python3.6
