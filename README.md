@@ -25,7 +25,6 @@ and user visual code for writing codes
 * javascript
 * css
 * Postgres SQLALchemy
-
 ## Run
 Use Terminal to open the server and the brouser to run this application
 
@@ -38,6 +37,5 @@ Use Terminal to open the server and the brouser to run this application
 * Create a config file to link your project qith the database or any url link
 
 ## License
-Permission is granted , free of charge to any one who want use this Gallery app, by  copy this software for fee.this website is an open website every one can use it by Ordering ,searching and visite the website 
- otherwise no one is allowed to use it by huncking the website 
-Copyright (c) 2019 | Dukunde Marie Jeanne
+
+MIT
