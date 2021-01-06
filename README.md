@@ -25,7 +25,9 @@ and user visual code for writing codes
 * javascript
 * css
 * Postgres SQLALchemy
+
 ## Run
+
 Use Terminal to open the server and the brouser to run this application
 
 ### Behavior Driven Development (BDD)
